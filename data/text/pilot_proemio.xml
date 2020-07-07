@@ -222,7 +222,7 @@
             <p>Le abbreviazioni nella diplomatica sono sciolte e segnalate in corsivo e grassetto</p>
         </front>
         <body>
-            <div n="Proemio" type="Proemio" xml:id="Proemio">
+            <div n="Proemio" type="text" xml:id="Proemio">
             <pb n="9r" xml:id="fol_9r" facs="data/images/single/fol_9r.JPG"/><lb n="[9r]"/>
             <p>d’Alcuni, poco meno d’un'anno intero, se non felicemente, franca<choice>
                 <orig>-</orig>
