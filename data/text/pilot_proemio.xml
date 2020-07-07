@@ -222,669 +222,133 @@
             <p>Le abbreviazioni nella diplomatica sono sciolte e segnalate in corsivo e grassetto</p>
         </front>
         <body>
-            <div n="Proemio" type="text" xml:id="Proemio">
-                <pb n="8r" xml:id="fol_8r" facs="data/images/single/fol_8r.JPG" />
-                <lb n="[8r]" />
-                <head>
-                    ☙ DELLA STORIA FIORENTINA
-                    <lb />
-                    DI BENEDETTO VARCHI COMINCIATA
-                    DALL’
-                    <lb />
-                    ANNO MILLE CINQUECENTO VENTISETTE,
-                    <lb />
-                    A L’ILL
-                    <emph rend="italic">USTRISSI</emph>
-                    MO ET ECC
-                    <emph rend="italic">ELLENTISSI</emph>
-                    MO
-                    <persName ref="#Cosimo">
-                        SIGNOR COSIMO
-                        <del hand="#A2">
-                            DE’
-                            <lb />
-                        </del>
-                        MEDICI
-                    </persName>
-                    , DUCA SECONDO DI
-                    <lb />
-                    FIRENZE
-                    <lb />
-                    <lb />
-                    PROEMIO
-                    ☙
-                </head>
-                <p>
-                    <choice>
-                        <sic>L'INTENDIMENTO</sic>
-                        <corr>L'intendimento</corr>
-                    </choice>
-                    nostro è di dovere
-                    <choice>
-                        <orig />
-                        <corr>,</corr>
-                    </choice>
-                    con quella diligenza
-                    <choice>
-                        <orig>,</orig>
-                        <corr />
-                    </choice>
-                    e verità
-                    <choice>
-                        <orig>,</orig>
-                        <corr />
-                    </choice>
-                    <lb />
-                    che potremo
-                    <choice>
-                        <orig>,</orig>
-                        <corr />
-                    </choice>
-                    e saperremo maggiore
-                    <choice>
-                        <orig />
-                        <corr>,</corr>
-                    </choice>
-                    tutte quelle cose ordinatamente, e
-                    <lb />
-                    particolarmente raccontare, le quali dal popolo
-                    <choice>
-                        <orig>Fiorentino</orig>
-                        <corr>fiorentino</corr>
-                    </choice>
-                    degne
-                    <lb />
-                    di memoria
-                    <choice>
-                        <orig>ò</orig>
-                        <corr>o</corr>
-                    </choice>
-                    in pace,
-                    <choice>
-                        <orig>ò</orig>
-                        <corr>o</corr>
-                    </choice>
-                    in guerra,
-                    <choice>
-                        <orig>ò</orig>
-                        <corr>o</corr>
-                    </choice>
-                    dentro,
-                    <choice>
-                        <orig>ò</orig>
-                        <corr>o</corr>
-                    </choice>
-                    fuori della città,
-                    <lb />
-                    <choice>
-                        <orig>ò</orig>
-                        <corr>o</corr>
-                    </choice>
-                    publicamente,
-                    <choice>
-                        <orig>ò</orig>
-                        <corr>o</corr>
-                    </choice>
-                    privatamente fatte furono, da che la
-                    <persName ref="#Famiglia_Medici">
-                        famiglia
-                        <lb />
-                        de’ Medici
-                    </persName>
-                    <choice>
-                        <orig>,</orig>
-                        <corr />
-                    </choice>
-                    e i loro seguaci la terza volta lo
-                    <choice>
-                        <orig>stato</orig>
-                        <corr>Stato</corr>
-                    </choice>
-                    di
-                    <placeName ref="#Firenze">Firenze</placeName>
-                    <lb />
-                    perdettero, più per la poca prudenza
-                    <choice>
-                        <orig>,</orig>
-                        <corr />
-                    </choice>
-                    e molta così viltà come
-                    <lb />
-                    avarizia di
-                    <persName ref="#Passerini">
-                        <choice>
-                            <orig>Mons</orig>
-                            <corr>mons</corr>
-                        </choice>
-                        <emph rend="italic">ignor</emph>
-                        m
-                        <emph rend="italic">esser</emph>
-                        Silvio Passerini
-                        <choice>
-                            <orig>Car</orig>
-                            <corr>car</corr>
-                        </choice>
-                        <emph rend="italic">dina</emph>
-                        le di
-                        <placeName ref="#Cortona">Cortona</placeName>
-                    </persName>
-                    , il
-                    <lb />
-                    quale
-                    <choice>
-                        <orig>à</orig>
-                        <corr>a</corr>
-                    </choice>
-                    nome di
-                    <persName ref="#ClementeVII">
-                        <choice>
-                            <orig>papa</orig>
-                            <corr>Papa</corr>
-                        </choice>
-                        Clemente
-                        <choice>
-                            <orig>.</orig>
-                            <corr />
-                        </choice>
-                        VII
-                        <choice>
-                            <orig>º.</orig>
-                            <corr />
-                        </choice>
-                    </persName>
-                    per lo
-                    <persName ref="#Ippolito">
-                        Mag
-                        <emph rend="italic">nifi</emph>
-                        co Ippolito
-                    </persName>
-                    <lb />
-                    in quel tempo la governava, che per alcuna altra
-                    <choice>
-                        <orig>piu</orig>
-                        <corr>più</corr>
-                    </choice>
-                    possente
-                    <lb />
-                    cagione
-                    <choice>
-                        <orig>.</orig>
-                        <corr>;</corr>
-                    </choice>
-                    <choice>
-                        <orig>La</orig>
-                        <corr>la</corr>
-                    </choice>
-                    qual cosa seguì agli
-                    <date when="1527-04-26">
-                        <choice>
-                            <orig>XXVI</orig>
-                            <corr>26</corr>
-                        </choice>
-                        giorni del mese d’
-                        <lb />
-                        <choice>
-                            <orig>A</orig>
-                            <corr>a</corr>
-                        </choice>
-                        <emph rend="italic">pri</emph>
-                        le
-                    </date>
-                    , quando il popolo inaspettatamente levatosi, furiosame
-                    <emph rend="italic">n</emph>
-                    te
-                    <lb />
-                    corse all’armi
-                    <choice>
-                        <orig>,</orig>
-                        <corr>;</corr>
-                    </choice>
-                    <choice>
-                        <orig>ò piu</orig>
-                        <corr>o più</corr>
-                    </choice>
-                    tosto agli
-                    <date when="1527-05-17">
-                        <choice>
-                            <orig>XVII</orig>
-                            <corr>17</corr>
-                        </choice>
-                        di maggio
-                    </date>
-                    , allhora
-                    <choice>
-                        <orig />
-                        <corr>,</corr>
-                    </choice>
-                    che
-                    <lb />
-                    <persName ref="#Famiglia_Medici">i Medici</persName>
-                    , di
-                    <placeName ref="#Firenze">Firenze</placeName>
-                    partendosi, se ne fuggirono
-                    <choice>
-                        <orig>à</orig>
-                        <corr>a</corr>
-                    </choice>
-                    <placeName ref="#Lucca">Lucca</placeName>
-                    l’an
-                    <choice>
+            <div n="Proemio" type="Proemio" xml:id="Proemio">
+            <pb n="9r" xml:id="fol_9r" facs="data/images/single/fol_9r.JPG"/><lb n="[9r]"/>
+            <p>d’Alcuni, poco meno d’un'anno intero, se non felicemente, franca<choice>
+                <orig>-</orig>
+                <reg resp="#D.B."/>
+            </choice><lb/>mente certo, e valorosamente sostenuto<choice><orig>; </orig><corr>,</corr></choice> essendo ella prima da
+                tutti<lb/> gl’amici, e confederati, poi da i suoi <choice><orig>Capitani</orig><corr>capitani</corr></choice> medesimi e da una
+                parte <lb/>de’ <choice><orig>proprij</orig><corr>proprii</corr></choice> cittadini tradita<choice><orig>; </orig><corr>,</corr></choice> et ultimamente da <persName
+                ref="#ClementeVII">Clemente .VII.</persName> e <lb/>
+            <persName ref="#Carlo_V">Carlo .V.</persName> ingannata, divenne dopo mille e
+            secento anni, che ella <lb/> fu da i mercatanti Fiesolani <choice> <orig>,</orig></choice> e da i soldati Romani
+                edificata, <lb/> e <choice><orig>settecento ventinove</orig><corr>settecentoventinove</corr></choice> poscia che <persName ref="#Carlo_Magno">
+                    Carlo per sopranome Magno</persName>, <choice><orig>Re</orig><corr>re</corr></choice> <lb/> di <placeName ref="#Francia"
+                        >Francia</placeName>, e primo <choice><orig>Imperadore</orig><corr>imperadore</corr></choice> dopo la rovina dello imperio Oc<choice>
                         <orig>-</orig>
-                        <reg resp="#D.B." />
-                    </choice>
-                    <lb />
-                    no della concezzione di N
-                    <emph rend="italic">ostro</emph>
-                    S
-                    <emph rend="italic">ignore</emph>
-                    Giesù Cristo (che da tal gior
-                    <choice>
+                        <reg resp="#D.B."/>
+                    </choice><lb/>cidentale, tornandosene da <placeName ref="#Roma">Roma</placeName>
+            in <placeName ref="#Francia">Francia</placeName>, ò la riedificò di <lb/> nuovo,
+                ò alcerto la restaurò; divenne <choice><orig>, dico,</orig><corr>(dico)</corr></choice> <choice><orig>piu</orig><corr>più</corr></choice> tosto di stato <lb/> corrotto<choice><orig>,</orig></choice> e
+                licenzioso tirannide, che di sana<choice><orig>,</orig></choice> e moderata <choice><orig>Republica</orig><corr>republica</corr></choice>, <lb/> prencipato. Ne à
+            questa così grande, e così grave impresa, e <choice>
+                <sic>no</sic>
+                <corr>non</corr>
+            </choice><lb/> meno di fatiche <choice><orig>,</orig></choice> e di pericoli piena<choice><orig>,</orig></choice> che d’honore<choice><orig>,</orig></choice> e di gloria,
+                <lb/> mi sono io nella mia già matura<choice><orig>,</orig></choice> e canuta età <choice>
+                <sic>spontanamete</sic>
+                <corr resp="#D.B.">spontanamente</corr>
+            </choice>
+                <lb/> messo, e di mia propria elezzione<choice><orig>,</orig><corr>:</corr></choice> anzi non pensando io <choice><orig>à</orig><corr>a</corr></choice> cosa <lb/>
+                nessuna meno<choice><orig>,</orig></choice> che <choice><orig>à</orig><corr>a</corr></choice> dovere scrivere <choice><orig>Storie</orig><corr>storie</corr></choice>, mi fu <app><lem wit="#RC4" hand="#A1"><del hand="#A3">prima da
+                <lb/><persName ref="#De_Rossi">Mons<emph rend="italic">ignor</emph> de’
+                    Rossi</persName> vescovo di <placeName ref="#Pavia"> Pavvia
+                    </placeName>per nome di <persName ref="#Cosimo">Cosimo de’<lb/>
+                        Medici</persName> Duca di <placeName ref="#Firenze">Firenze</placeName>,
+                    e poi</del></lem><rdg cause="del" wit="#RC4c"> </rdg></app> dalla propria bocca di <app><lem wit="#RC4" hand="#A1"><del hand="#A3" n="miaone">lui</del></lem><rdg cause="del" wit="#RC4c"> </rdg></app><add
+                    hand="#A3" place="margin" n="miaone"><persName ref="#Cosimo">Cosimo de’
+                        Me<lb/>dici</persName> duca di <lb/><placeName ref="#Firenze"
+                            >Firenze</placeName></add><lb/> molto humanamente, ch’io ciò fare
+            dovessi imposto e coman<choice>
+                <orig>-</orig>
+                <reg resp="#D.B."/>
+            </choice><lb/>dato, <app><lem wit="#RC4" hand="#A1"><del hand="#A3">faccendomi egli per publico, et honorevole
+                partito de i <lb/> Mag<emph rend="italic">nifi</emph>ci S<emph rend="italic"
+                    >igno</emph>ri, Luogotenente, e Consiglieri suoi, honesta provvisione
+                <lb/> per le mie bisogne <add hand="#A2" place="above">prima</add> di .XV.
+                <add hand="#A2" place="above">e poi di venticinque</add> fiorini d’oro
+                senza alcuna ritenzio<choice>
+                    <orig>-</orig>
+                    <reg resp="#D.B."/>
+                </choice><lb/>ne, ò stanziamento, il che radissime volte concedere si suole,
+                per <lb/> ciascun mese diliberare, e pagare; la qual cosa, tosto che si spar<choice>
+                    <orig>-</orig>
+                    <reg resp="#D.B."/>
+                </choice><lb/>se, e divolgò, diede à molte persone, e diverse, assai piu,
+                che nel</del></lem><rdg cause="del" wit="#RC4c"> </rdg></app>
+            </p>
+       
+                    <pb n="9v" xml:id="fol_9v" facs="data/images/single/fol_9v.JPG"
+                /><p><app><lem wit="#RC4" hand="#A1"><del hand="#A3">vero non pareva che <add hand="#A1" place="above"
+                    >dare</add> dovesse, parte cagione <choice><orig>,</orig></choice> e parte occasione di mol<choice>
                         <orig>-</orig>
-                        <reg resp="#D.B." />
-                    </choice>
-                    <lb />
-                    no principia
-                    <del hand="#A1">va</del>
-                    no l’anno
-                    <span n="miaone">
-                        <choice>
-                            <orig>^</orig>
-                            <reg resp="#D.B." />
-                        </choice>
-                    </span>
-                    <add hand="#A2" place="bottom" n="miaone">
-                        <span n="miaone">
-                            <choice>
-                                <orig>^</orig>
-                                <reg resp="#D.B." />
-                            </choice>
-                        </span>
-                        benché non senza errore manifesto,
-                        <del hand="#A2">
-                            i
-                            Fiorentini
-                            <emph rend="italic">ecc.</emph>
-                        </del>
-                    </add>
-                    i Fiorentini
-                    <date when="1527">
-                        millecinquecento venti
-                        <choice>
-                            <orig>-</orig>
-                            <reg resp="#D.B." />
-                        </choice>
-                        <lb />
-                        sette
-                    </date>
-                    , infino
-                    <choice>
-                        <orig>à</orig>
-                        <corr>a</corr>
-                    </choice>
-                    che ella, ed eglino con i danari della chiesa, e col
-                    <choice>
+                        <reg resp="#D.B."/>
+                    </choice><lb/>to <choice><orig>,</orig></choice> e diversamente sopra ciò ragionare; et avvengadio che la
+                    maggior par<choice>
                         <orig>-</orig>
-                        <reg resp="#D.B." />
-                    </choice>
-                    <pb n="8v" xml:id="fol_8v" facs="data/images/single/fol_8v.JPG" />
-                    <lb n="[8v]" />
-                    le forze dell’Imperio nell’anno
-                    <date when="1530">millecinquecentotrenta</date>
-                    agli
-                    <date when="1530-08-20">
-                        <choice>
-                            <orig>.XX.</orig>
-                            <corr>20</corr>
-                        </choice>
-                        <lb />
-                        d’agosto
-                    </date>
-                    <choice>
-                        <orig>,</orig>
-                        <corr />
-                    </choice>
-                    fatto parlamento, lo racquistarono.
-                    <app>
-                        <lem wit="#RC4" hand="#A1">
-                            <del hand="#A3">
-                                Benché, l’animo no
-                                <choice>
-                                    <orig>-</orig>
-                                    <reg resp="#D.B." />
-                                </choice>
-                                <lb />
-                                stro è (se la vita ne basterà) di scrivere per maggiore notizia della
-                                <lb />
-                                mutazione dello
-                                <placeName ref="#Firenze">
-                                    <choice>
-                                        <orig>stato</orig>
-                                        <corr>Stato</corr>
-                                    </choice>
-                                    di Firenze
-                                </placeName>
-                                infino al
-                                <del hand="#A2">Primo</del>
-                                <del hand="#A2">
-                                    <add hand="#A2" place="above">27</add>
-                                </del>
-                                <del hand="#A2">
-                                    <add hand="#A2" place="below">primo</add>
-                                </del>
-                                <del hand="#A2">giorno</del>
-                                <del hand="#A2">di Maggio</del>
-                                <del hand="#A2" n="miaone">
-                                    <add hand="#A2" place="above">ventisettesimo d’Aprile</add>
-                                </del>
-                                <del hand="#A3">
-                                    <add hand="#A2" place="margin" n="miaone">
-                                        <date when="1532-05-01">
-                                            primo
-                                            <lb />
-                                            giorno
-                                            <lb />
-                                            di Maggio
-                                        </date>
-                                    </add>
-                                </del>
-                                <lb />
-                                <date when="1532-05-01">dell’anno mille cinquecentotrentadue</date>
-                                , nel qual tempo
-                                <persName ref="#Alessandro_de_Medici">
-                                    Alessandro
-                                    <lb />
-                                    de’ Medici
-                                </persName>
-                                <choice>
-                                    <orig />
-                                    <corr>,</corr>
-                                </choice>
-                                figliuolo non legittimo di
-                                <persName ref="#Lorenzo_De_Medici">Lorenzo già Duca d’Urbino</persName>
-                                ,
-                                <lb />
-                                levata la
-                                <choice>
-                                    <orig>signoria</orig>
-                                    <corr>Signoria</corr>
-                                </choice>
-                                , e ’l Gonfaloniere,
-                                <choice>
-                                    <orig>fù</orig>
-                                    <corr>fu</corr>
-                                </choice>
-                                a vita con tutti i suoi
-                                <lb />
-                                discendenti, e successori legittimi
-                                <choice>
-                                    <orig>Doge</orig>
-                                    <corr>doge</corr>
-                                </choice>
-                                creato della
-                                <placeName ref="#Firenze">
-                                    Republica Fio
-                                    <choice>
-                                        <orig>-</orig>
-                                        <reg resp="#D.B." />
-                                    </choice>
-                                    <lb />
-                                    rentina
-                                </placeName>
-                                : spazio breve sì, non comprendendo egli se non cinque
-                                <lb />
-                                anni, e
-                                <del hand="#A2">cinque</del>
-                                <del hand="#A2">
-                                    <add hand="#A2" place="above">un</add>
-                                </del>
-                                <add hand="#A2" place="above">cinque</add>
-                                giorn
-                                <del hand="#A2">
-                                    i
-                                    <add hand="#A2">o</add>
-                                </del>
-                                <add hand="#A2">i</add>
-                                , ma tale però e così fatto
-                                <choice>
-                                    <orig>,</orig>
-                                    <corr />
-                                </choice>
-                                che in ello
-                                <choice>
-                                    <orig>,</orig>
-                                    <corr>-</corr>
-                                </choice>
-                                e
-                                <lb />
-                                massimamente ne’ tre primi anni
-                                <choice>
-                                    <orig />
-                                    <corr>,</corr>
-                                </choice>
-                                sotto il governo di tre gonfalo
-                                <choice>
-                                    <orig>-</orig>
-                                    <reg resp="#D.B." />
-                                </choice>
-                                <lb />
-                                nieri di diversa natura, condizione
-                                <choice>
-                                    <orig>,</orig>
-                                    <corr />
-                                </choice>
-                                e volontà
-                                <choice>
-                                    <orig>,</orig>
-                                    <corr>:</corr>
-                                </choice>
-                                <persName ref="#Capponi">Niccolò Capponi</persName>
-                                ,
-                                <lb />
-                                <persName ref="#F_Carducci">Francesco Carducci</persName>
-                                , e
-                                <persName ref="#Girolami">Raffaello Girolami</persName>
-                                <choice>
-                                    <orig>,</orig>
-                                    <corr>-</corr>
-                                </choice>
-                                nacquero
-                                <choice>
-                                    <orig />
-                                    <corr>,</corr>
-                                </choice>
-                                insieme con
-                                <lb />
-                                uno assedio
-                                <choice>
-                                    <orig>,</orig>
-                                    <corr />
-                                </choice>
-                                del quale non
-                                <choice>
-                                    <orig>sò</orig>
-                                    <corr>so</corr>
-                                </choice>
-                                se mai
-                                <choice>
-                                    <orig>fù</orig>
-                                    <corr>fu</corr>
-                                </choice>
-                                il più memorabile, tutte
-                                <lb />
-                                quasi quelle varietà et accidenti, che in un popolo non meno ambizioso
-                                <choice>
-                                    <orig>,</orig>
-                                    <corr />
-                                </choice>
-                                <lb />
-                                e sottile che
-                                <add hand="#A2" place="above">diligente et</add>
-                                avaro,
-                                <choice>
-                                    <orig>ne</orig>
-                                    <corr>nè</corr>
-                                </choice>
-                                meno ricco
-                                <choice>
-                                    <orig>,</orig>
-                                    <corr />
-                                </choice>
-                                <del hand="#A1">che</del>
-                                <add hand="#A1" place="above">
-                                    <emph rend="italic">et</emph>
-                                </add>
-                                industrioso,
-                                <del hand="#A2">e</del>
-                                <add hand="#A1" place="above">che</add>
-                                nobile, di sotto q
-                                <emph rend="italic">ue</emph>
-                                l
-                                <lb />
-                                giogo contra tempo
-                                <choice>
-                                    <orig>,</orig>
-                                    <corr />
-                                </choice>
-                                e per la non pensata uscito, il quale
-                                <choice>
-                                    <orig>.XV.</orig>
-                                    <corr>15</corr>
-                                </choice>
-                                anni
-                                <lb />
-                                continovi premuto l’havea, non pure sogliono, ma possono occorrere.
-                            </del>
-                        </lem>
-                        <rdg cause="del" wit="#RC4c" />
-                    </app>
-                    <lb />
-                    Chiara cosa è che la
-                    <placeName ref="#Firenze">città di Firenze</placeName>
-                    , la quale,
-                    <choice>
-                        <orig>ò</orig>
-                        <corr>o</corr>
-                    </choice>
-                    sua colpa
-                    <choice>
-                        <orig>ò</orig>
-                        <corr>o</corr>
-                    </choice>
-                    sua
-                    <lb />
-                    fortuna,
-                    <choice>
-                        <orig>fù</orig>
-                        <corr>fu</corr>
-                    </choice>
-                    alle divisioni
-                    <choice>
-                        <orig>,</orig>
-                        <corr />
-                    </choice>
-                    e alle discordie cittadine sempre maraviglio
-                    <choice>
+                        <reg resp="#D.B."/>
+                    </choice><lb/>te (secondo che mi fu generalmente da più amici miei riferito,
+                    et in ispe<choice>
                         <orig>-</orig>
-                        <reg resp="#D.B." />
-                    </choice>
-                    <lb />
-                    samente sottoposta, mai non si trovò
-                    <choice>
-                        <orig>,</orig>
-                        <corr />
-                    </choice>
-                    <choice>
-                        <orig>ne</orig>
-                        <corr>nè</corr>
-                    </choice>
-                    con
-                    <choice>
-                        <orig>piu</orig>
-                        <corr>più</corr>
-                    </choice>
-                    certo pericolo di
-                    <choice>
+                        <reg resp="#D.B."/>
+                    </choice><lb/>zie dal <choice><orig>Mag<emph rend="italic">nifi</emph>co</orig><corr>magnifico</corr></choice> m<emph
+                        rend="italic">esser</emph>
+                    <persName ref="#Torello">Lelio Torello</persName>) facessero giudizio<choice><orig>,</orig></choice> e
+                    dicessero aperta<choice>
                         <orig>-</orig>
-                        <reg resp="#D.B." />
-                    </choice>
-                    <lb />
-                    visa,
-                    <choice>
-                        <orig>ne</orig>
-                        <corr>nè</corr>
-                    </choice>
-                    con maggior danno discorde, che in quel tempo
-                    <choice>
-                        <orig>. Onde</orig>
-                        <corr>; onde</corr>
-                    </choice>
-                    <lb />
-                    avvenne
-                    <choice>
-                        <orig>,</orig>
-                        <corr />
-                    </choice>
-                    che ella
-                    <choice>
-                        <orig />
-                        <corr>,</corr>
-                    </choice>
-                    dopo l’havere la guerra contra l’esercito del
-                    <choice>
-                        <orig>Pa</orig>
-                        <corr>pa</corr>
-                    </choice>
-                    <choice>
+                        <reg resp="#D.B."/>
+                    </choice><lb/>mente prima<choice><orig>,</orig></choice> ch’io non vorrei<choice><orig>;</orig><corr>,</corr></choice> e poscia, quando pure io
+                    volessi, non sa<choice>
                         <orig>-</orig>
-                        <reg resp="#D.B." />
-                    </choice>
-                    <lb />
-                    pa e dell’
-                    <choice>
-                        <orig>Imperadore</orig>
-                        <corr>imperadore</corr>
-                    </choice>
-                    con incredibile
-                    <choice>
-                        <orig>ò</orig>
-                        <corr>o</corr>
-                    </choice>
-                    ardire
-                    <choice>
-                        <orig>,</orig>
-                        <corr />
-                    </choice>
-                    e costanza
-                    <choice>
-                        <orig>,</orig>
-                        <corr>(</corr>
-                    </choice>
-                    secondo
-                    <lb />
-                    <choice>
-                        <orig>che</orig>
-                        <corr>ché</corr>
-                    </choice>
-                    <choice>
-                        <orig>à</orig>
-                        <corr>a</corr>
-                    </choice>
-                    noi pare
-                    <choice>
-                        <orig>,</orig>
-                        <corr>),</corr>
-                    </choice>
-                    <choice>
-                        <orig>ò</orig>
-                        <corr>o</corr>
-                    </choice>
-                    temerità,
-                    <add hand="#A1">
-                        <emph rend="italic">et</emph>
-                    </add>
-                    ostinazione, secondo il giudizio
-                    <del hand="#A1">d'</del>
-                </p>
+                        <reg resp="#D.B."/>
+                    </choice><lb/>prei, non che fornire, cominciare così alta impresa<choice><orig>,</orig></choice> e tanto
+                    dagli <choice><orig>studij</orig><corr>studii</corr></choice> <lb/> miei passati lontana<choice><orig>:</orig><corr>;</corr></choice> <choice><orig>Io</orig><corr>io</corr></choice> nondimeno, considerate le
+                    ragioni loro<choice><orig>,</orig></choice> e pa<choice>
+                        <orig>-</orig>
+                        <reg resp="#D.B."/>
+                    </choice><lb/>rendomi parte pr<del hand="#A1">o</del><add hand="#A1"
+                        place="above">e</add>suntuose, volendo dell’altrui volontà
+                    temerariam<emph rend="italic">n</emph>ete <lb/> affermare; e parte
+                    fondat<del hand="#A2">i</del><add hand="#A2">e</add> in sul falso, poco
+                    caso ne feci<choice><orig>,</orig><corr>;</corr></choice> anzi, per vero <lb/> dire, <choice><orig>nïuna</orig><corr>niuna</corr></choice> cura ne tenni<choice><orig>;</orig><corr>:</corr></choice> <choice><orig>percioche</orig><corr>percioché</corr></choice> io,
+                    se bene e per l’età, non ha<choice>
+                        <orig>-</orig>
+                        <reg resp="#D.B."/>
+                    </choice><lb/>vendo in quel tempo piu anni che <choice><orig>XXV</orig><corr>25</corr></choice><choice><orig>.</orig><corr>,</corr></choice> e per lo non essere
+                    habile <lb/> agl’<choice><orig>uffizij</orig><corr>uffizii</corr></choice>, essendo io bene cittadino di <placeName
+                        ref="#Firenze">Firenze</placeName>, secondo l’abuso delle <lb/>
+                    republiche moderne, ma non già il benifizio godendo della città, non <lb/>mi
+                    ritrovai in quel teatro come strione, non dimeno come spettatore<lb/>
+                    <del hand="#A1">c</del><add hand="#A1" place="above">v</add>’intervenni<choice><orig>,</orig><corr>;</corr></choice> e
+                    suole molte volte accadere<choice><orig>,</orig></choice> che più veggono<choice><orig>,</orig></choice> e meglio <lb/> giudicano
+                    d’alcuna <choice><orig>ò</orig><corr>o</corr></choice> commedia<choice><orig>,</orig></choice> <choice><orig>ò</orig><corr>o</corr></choice> tragedia coloro<choice><orig>,</orig></choice> i quali à vederla <lb/>
+                    rappresentare intervengono, che quelli stessi non fanno, i quali <choice><orig>à</orig><corr>a</corr></choice> rap<choice>
+                        <orig>-</orig>
+                        <reg resp="#D.B."/>
+                    </choice><lb/>presentarla si truovano. Io non negarò<choice><orig>,</orig></choice> che il ritrovarsi ne i con<choice>
+                        <orig>-</orig>
+                        <reg resp="#D.B."/>
+                    </choice><lb/>sigli publici<choice><orig>;</orig><corr>,</corr></choice> intervenire nelle consulte private<choice><orig>;</orig><corr>,</corr></choice> esser
+                    presente alle pra<choice>
+                        <orig>-</orig>
+                        <reg resp="#D.B."/>
+                    </choice><lb/>tiche segrete, e il potere finalmente<choice><orig>,</orig></choice> <choice><orig>ò</orig><corr>o</corr></choice> come capo<choice><orig>,</orig></choice> <choice><orig>ò</orig><corr>o</corr></choice> come
+                    parte di quel<choice>
+                        <orig>-</orig>
+                        <reg resp="#D.B."/>
+                    </choice><lb/>le cose trattare<choice><orig>,</orig></choice> e deliberare, le quali poi in iscrittura
+                    distendere si deb<choice>
+                        <orig>-</orig>
+                        <reg resp="#D.B."/>
+                    </choice><lb/>bano<choice><orig>,</orig></choice> e mandare <choice><orig>à</orig><corr>a</corr></choice> i <choice><orig>Posteri</orig><corr>posteri</corr></choice>, non sia in qualche parte
+                    utilissimo<choice><orig>,</orig><corr>;</corr></choice> ma<lb/> dirò bene<choice><orig>,</orig></choice> che egli in parte nessuna necessario non è,
+                    se <choice><orig>gia</orig><corr>già</corr></choice> non cre<choice>
+                        <orig>-</orig>
+                        <reg resp="#D.B."/>
+                    </choice><lb/>dessimo che <persName ref="#Plutarco">Plutarco</persName>
+                    autore gravissimo, e tanti altri <choice><orig>Storici</orig><corr>storici</corr></choice> cosi <choice><orig>Greci</orig><corr>greci</corr></choice>,<lb/> come <choice><orig>Latini</orig><corr>latini</corr></choice> <choice><orig>à</orig><corr>a</corr></choice>
+                    quelle cose personalmente intervenissero, le quali da </del></lem><rdg cause="del" wit="#RC4c"> </rdg></app><lb/></p>
             </div>
         </body>
     </text>
